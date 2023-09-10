@@ -3,11 +3,11 @@ package gal_;
 public class gal {
 	public static void main(String[] args) 
 	{
-		int x = 3;
-		int y = 2;
-		int n=3555;
+		int x = 5;
+		int y = 4;
+		int n=3593;
 		int n2=7;
-		int n3=7;
+		int n3=5;
 		
 
 		System.out.println(func5(n2, n3));
